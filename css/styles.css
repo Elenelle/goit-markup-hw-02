@@ -209,7 +209,12 @@ footer {
 .footer-list {
   list-style: none;
 }
-
+.logo-white {
+  color: var(--primary-text-color);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
+}
 .adress {
   font-style: normal;
   font-weight: normal;
