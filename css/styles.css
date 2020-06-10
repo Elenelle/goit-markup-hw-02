@@ -210,10 +210,15 @@ footer {
   list-style: none;
 }
 .logo-white {
-  color: var(--primary-text-color);
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.2;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 26px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+
+color: #FFFFFF;
 }
 .adress {
   font-style: normal;
